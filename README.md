@@ -1,2 +1,2 @@
 # Engineering-Statistics_Portfolio_RubenGavidia0x
-Engineering-Statistics_Portfolio_RubenGavidia0x.py
+Design of Experiments (DOE), Quality control and process control,Time and methods engineering, Reliability engineering, Probabilistic design, System identification,
